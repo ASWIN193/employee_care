@@ -1,2 +1,2 @@
 # employee_care
-mange attendance details of all the employees in a company
+Web app to manage attendance details of all the employees in a company
